@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Aryan Kumar — 3rd year, 5th sem.<br>Professional button-clicker, part-time bug creator, full-time learner.<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>Open-source projects and anything fun to build together!<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hey, I’m Aryan Kumar — 3rd year, 5th sem.<br>Professional button-clicker, part-time bug creator, full-time learner.
 
 
 ## 🌐 Socials:
