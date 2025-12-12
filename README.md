@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Aryan Kumar — 3rd year, 5th sem.<br>Professional button-clicker, part-time bug creator, full-time learner.
+Hey, I’m Aryan Kumar.<br>Professional button-clicker, part-time bug creator, full-time learner.
 
 
 ## 🌐 Socials:
