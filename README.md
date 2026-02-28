@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Aryan Kumar.<br>Professional button-clicker, part-time bug creator, full-time learner.
+Hey, I’m Aryan Kumar.Student <br>Professional button-clicker, part-time bug creator, full-time learner.
 I care about **correctness, performance, and understanding things at the lowest reasonable level** — not just shipping UI pixels.
 I optimize for clarity over cleverness and prefer fixing root causes instead of patching symptoms.
 Understanding > memorization > cargo-culting.
