@@ -1,21 +1,138 @@
-# 💫 About Me:
-Hey, I’m Aryan Kumar.Student <br>Professional button-clicker, part-time bug creator, full-time learner.
-I care about **correctness, performance, and understanding things at the lowest reasonable level** — not just shipping UI pixels.
-I optimize for clarity over cleverness and prefer fixing root causes instead of patching symptoms.
-Understanding > memorization > cargo-culting
+# Hey, I'm Aryan Kumar 👋
 
+### Software Developer | Open Source Contributor | Full-Stack Developer 🚀
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aryan34802)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan002005@gmail.com) 
+I'm a Computer Science Engineering student passionate about building software, contributing to open source, and solving real-world engineering problems.
 
-# 💻 Tech Stack:
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryan7071&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryan7071&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7071&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy working across **JavaScript, TypeScript, React, Node.js, Python, and backend systems**, while continuously improving my understanding of software engineering, debugging, testing, and system design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aryan7071&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- 🌐 Full-Stack Developer with experience in the **MERN stack**
+- 🌱 Active **Open Source Contributor**
+- 🔧 Contributor to projects including **stdlib-js** and **CircuitVerse**
+- 🐛 Interested in debugging, testing, performance, and developer tooling
+- 🚀 Building projects that solve practical problems
+- 📚 Currently improving my skills in **System Design, Backend Engineering & Open Source Development**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`JavaScript` `TypeScript` `Python` `C++` `Java` `Ruby` `Go` `SQL`
+
+### Frontend
+`React` `Next.js` `Vite` `HTML` `CSS` `Tailwind CSS` `Framer Motion`
+
+### Backend
+`Node.js` `Express.js` `Python Flask` `REST APIs`
+
+### Databases
+`MongoDB` `PostgreSQL` `Redis`
+
+### Tools & DevOps
+`Git` `GitHub` `Docker` `Linux` `WSL` `NGINX`
+
+### Other
+`System Design` `Testing` `Debugging` `Open Source` `Native Addons`
+
+---
+
+## 🌍 Open Source
+
+Open source is a major part of my development journey.
+
+### 🔢 stdlib-js
+
+Contributing to **stdlib-js**, a large JavaScript library for numerical and scientific computing.
+
+Some areas I've worked on:
+
+- Mathematical and statistical packages
+- Array and ndarray functionality
+- C implementations
+- ULP-based numerical testing
+- Bug fixes and test improvements
+- Documentation and tooling
+- Build and native-addon related issues
+
+I've worked on multiple issues and pull requests involving **implementation, testing, debugging, and numerical correctness**.
+
+### ⚡ CircuitVerse
+
+Contributor to **CircuitVerse**, an open-source digital circuit simulation platform.
+
+Worked on:
+
+- Circuit simulator functionality
+- Vue-based frontend
+- Debugging simulator issues
+- Testing and reproducing bugs
+- Investigating upstream/downstream logic
+- Development environment and build issues
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| **HelpEd** | Educational platform focused on improving learning accessibility | React, Node.js, MongoDB |
+| **Distributed Task Scheduler** | Backend system for managing and scheduling distributed tasks | Node.js, PostgreSQL, Redis |
+| **Password Manager** | Secure password management web application | React, Express, MongoDB |
+| **URL Shortener** | Fast URL shortening service with backend API | Next.js, Node.js |
+| **Proactive Health Monitoring** | Platform for monitoring health data and identifying potential outbreaks | React, Python, APIs |
+| **pr-sentinel** | Developer tool focused on improving pull request workflows | JavaScript, GitHub APIs |
+
+---
+
+## 📊 What I Like Working On
+
+```text
+Open Source        ████████████████████
+Backend Development ██████████████████
+Full Stack          █████████████████
+Debugging           ███████████████████
+System Design       ███████████████
+Developer Tools     ████████████████
+```
+
+---
+
+## 🎯 Currently
+
+- 🔭 Contributing to open-source projects
+- 🧩 Working on real-world bugs and feature implementations
+- 💻 Building full-stack applications
+- 🧠 Learning deeper system design and backend architecture
+- 🤝 Looking for opportunities to collaborate on interesting engineering projects
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan7071&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7071&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/aryan7071">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://x.com/aryan34802">X / Twitter</a> •
+  <a href="https://www.instagram.com/aryan_x_kumar/">Instagram</a>
+</p>
+
+---
+
+### 💡 "Build. Break. Debug. Learn. Repeat."
+
+Thanks for visiting my profile! ⭐
