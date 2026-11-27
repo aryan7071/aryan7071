@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aryan kumar&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 111, Total PRs: 123, Total PRs Merged: 75, Merged PRs Percentage: 60.98, Total Issues: 18, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 111, Total PRs: 124, Total PRs Merged: 75, Merged PRs Percentage: 60.48, Total Issues: 18, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 177.0990717524168;
+        stroke-dashoffset: 176.94185648693707;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >123</text>
+      >124</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >60.98 %</text>
+      >60.48 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
